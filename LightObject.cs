@@ -4,10 +4,8 @@ using UnityEngine;
 
 public class LightObject : MonoBehaviour
 {
-    [SerializeField]
-    private Vector2 direction; //E,W,NE,NW,SE,SW
-    [SerializeField]
-    public byte RGB;
+    private Vector2 direction=GameManager.SE; //E,W,NE,NW,SE,SW
+    private byte RGB;
 
     // Update is called once per frame
     void Update()
