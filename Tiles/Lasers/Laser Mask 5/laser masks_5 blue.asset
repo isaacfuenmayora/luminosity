@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: laser masks_5 blue
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 548093382031880326, guid: ad6a046b60030204eab6988e47055d2e, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0
